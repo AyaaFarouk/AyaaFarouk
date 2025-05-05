@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-farouq/)
 [![](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayamohamedfarouk2001@gmail.com)
 
-- :office: &nbsp;I'm currently professional development & BI-infused CRM trainee at <a href="https://iti.gov.eg/home"> @ITI 9-Month program </a> <img src="./assets/logos/ITI-Logo.png" width="20" draggable="false"></img>
+- :office: &nbsp;I'm currently professional development & BI-infused CRM trainee at <a href="https://iti.gov.eg/home"> @ITI 9-Month program </a> <img src="./assets/logos/ITI-logo.png" width="20" draggable="false"></img>
 - :seedling: &nbsp;I’m currently learning CRM
 - :mailbox: &nbsp;Ask me anything, I'm happy to help :)
 
